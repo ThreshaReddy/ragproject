@@ -123,10 +123,3 @@ RAG/
   - Restart the app with `streamlit run app.py`.
   - Review logs in the terminal for detailed error information.
 
-## License
-
-This project is licensed under the MIT License.
-
----
-
-This README provides all necessary information to set up, run, and troubleshoot the application. Let me know if you'd like further adjustments!
