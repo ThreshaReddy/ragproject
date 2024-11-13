@@ -1,0 +1,9 @@
+python-dotenv
+streamlit
+openai
+langchain
+pypdf
+chromadb
+PyPDF2
+watchdog
+faiss-cpu
